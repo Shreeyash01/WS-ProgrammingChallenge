@@ -10,4 +10,4 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
    [Day2.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day2.cpp)
 
 3. Day 3 Question: Find a subarray in a given array, that adds to a given target sum.
-   [Day2.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day3.cpp)
+   [Day3.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day3.cpp)

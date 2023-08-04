@@ -11,3 +11,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 3. Day 3 Question: Find a subarray in a given array, that adds to a given target sum.
    [Day3.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day3.cpp)
+
+4. Day 4 Question: An array contains both positive and negative numbers in random order. Rearrange the array elements so that all negative numbers appear before all positive numbers.
+   [Day4.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day4.cpp)

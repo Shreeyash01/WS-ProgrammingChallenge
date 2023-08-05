@@ -14,3 +14,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 4. Day 4 Question: An array contains both positive and negative numbers in random order. Rearrange the array elements so that all negative numbers appear before all positive numbers.
    [Day4.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day4.cpp)
+
+5. Day 5 Question: Given an array of N integers, and an integer K, the task is to find the number of pairs of integers in the array whose sum is equal to K.
+   [Day5.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day5.cpp)

@@ -17,3 +17,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 5. Day 5 Question: Given an array of N integers, and an integer K, the task is to find the number of pairs of integers in the array whose sum is equal to K.
    [Day5.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day5.cpp)
+
+6. Day 6 Question: Given an unsorted array of N integers, find smallest and largest element in optimal way.
+   [Day6.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day6.cpp)

@@ -20,3 +20,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 6. Day 6 Question: Given an unsorted array of N integers, find smallest and largest element in optimal way.
    [Day6.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day6.cpp)
+
+7. Day 7 Question: Rotate the array to the left N times. Accept N value from the user.
+   [Day7.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day7.cpp)

@@ -23,3 +23,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 7. Day 7 Question: Rotate the array to the left N times. Accept N value from the user.
    [Day7.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day7.cpp)
+
+8. Day 8 Question: Check if two strings are anagrams of each other or not.
+   [Day8.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day8.cpp)

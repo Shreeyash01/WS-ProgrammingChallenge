@@ -26,3 +26,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 8. Day 8 Question: Check if two strings are anagrams of each other or not.
    [Day8.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day8.cpp)
+
+9. Day 9 Question: Reverse a string using recursion.
+   [Day9.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day9.cpp)

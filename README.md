@@ -33,5 +33,5 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 10. Day 10 Question: Given a string, find the first non-repeated character in it. If no such character exists, return a specific value (e.g., a special character or -1) to indicate that no non-repeated character is found.
    [Day10.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day10.cpp)
 
-11. Day 11 Question: Given a string, find the first non-repeated character in it. If no such character exists, return a specific value (e.g., a special character or -1) to indicate that no non-repeated character is found.
+11. Day 11 Question: You are given a string S, the task is to reverse the string word by word.
    [Day11.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day11.cpp)

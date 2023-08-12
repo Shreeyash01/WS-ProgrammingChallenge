@@ -35,3 +35,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 11. Day 11 Question: You are given a string S, the task is to reverse the string word by word.
    [Day11.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day11.cpp)
+
+12. Day 12 Question: You're given a string S,  consisting of "{", "}", "(", ")", "[" and "]". Return true is S is balanced, else return false.
+   [Day12.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day12.cpp)

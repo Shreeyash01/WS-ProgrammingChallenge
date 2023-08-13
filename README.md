@@ -38,3 +38,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 12. Day 12 Question: You're given a string S,  consisting of "{", "}", "(", ")", "[" and "]". Return true is S is balanced, else return false.
    [Day12.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day12.cpp)
+
+13. Day 13 Question: Given a Roman numeral, the task is to find its corresponding decimal value.
+   [Day13.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day13.cpp)

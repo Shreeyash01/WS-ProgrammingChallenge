@@ -41,3 +41,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 13. Day 13 Question: Given a Roman numeral, the task is to find its corresponding decimal value.
    [Day13.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day13.cpp)
+
+14. Day 14 Question: Given a string of lowercase alphabets, count all possible substrings (not necessarily distinct) that has exactly k distinct characters.
+   [Day14.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day14.cpp)

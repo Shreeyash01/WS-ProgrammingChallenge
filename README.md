@@ -44,3 +44,7 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 14. Day 14 Question: Given a string of lowercase alphabets, count all possible substrings (not necessarily distinct) that has exactly k distinct characters.
    [Day14.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day14.cpp)
+
+15. Day 15 Question: Check whether two string are isomorphic.
+Note: Two strings are isomorphic if one-to-one mapping is possible for every character of first string to every character of second string while preserving the orders of the characters.
+   [Day15.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day15.cpp)

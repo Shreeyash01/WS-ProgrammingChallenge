@@ -48,3 +48,6 @@ A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 15. Day 15 Question: Check whether two string are isomorphic.
 Note: Two strings are isomorphic if one-to-one mapping is possible for every character of first string to every character of second string while preserving the orders of the characters.
    [Day15.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day15.cpp)
+
+16. Day 16 Question: Find the GCD (Greatest Common Divisor) of 2 integers. The GCD of any 2 numbers is the largest number that divides both the integers.
+   [Day16.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day16.cpp)

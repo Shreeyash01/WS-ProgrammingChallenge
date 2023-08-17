@@ -51,3 +51,6 @@ Note: Two strings are isomorphic if one-to-one mapping is possible for every cha
 
 16. Day 16 Question: Find the GCD (Greatest Common Divisor) of 2 integers. The GCD of any 2 numbers is the largest number that divides both the integers.
    [Day16.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day16.cpp)
+
+17. Day 17 Question: Find the GCD (Greatest Common Divisor) of 2 integers. The GCD of any 2 numbers is the largest number that divides both the integers.
+   [Day17.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day17.cpp)

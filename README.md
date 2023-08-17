@@ -52,5 +52,5 @@ Note: Two strings are isomorphic if one-to-one mapping is possible for every cha
 16. Day 16 Question: Find the GCD (Greatest Common Divisor) of 2 integers. The GCD of any 2 numbers is the largest number that divides both the integers.
    [Day16.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day16.cpp)
 
-17. Day 17 Question: Find the GCD (Greatest Common Divisor) of 2 integers. The GCD of any 2 numbers is the largest number that divides both the integers.
+17. Day 17 Question: Given a number N, figure out if it is a member of the fibonacci series or not. Return true if the number of members of the fibonacci series else false.
    [Day17.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day17.cpp)

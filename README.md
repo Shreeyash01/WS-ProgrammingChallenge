@@ -55,5 +55,5 @@ Note: Two strings are isomorphic if one-to-one mapping is possible for every cha
 17. Day 17 Question: Given a number N, figure out if it is a member of the fibonacci series or not. Return true if the number of members of the fibonacci series else false.
    [Day17.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day17.cpp)
 
-18. Day 18 Question: Given a number N, figure out if it is a member of the fibonacci series or not. Return true if the number of members of the fibonacci series else false.
+18. Day 18 Question: You are given two positive numbers N and M. You have to return the Nth root of M. If the Nth root of M is not an integer, return -1.
    [Day18.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day18.cpp)

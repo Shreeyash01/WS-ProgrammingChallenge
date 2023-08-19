@@ -57,3 +57,6 @@ Note: Two strings are isomorphic if one-to-one mapping is possible for every cha
 
 18. Day 18 Question: You are given two positive numbers N and M. You have to return the Nth root of M. If the Nth root of M is not an integer, return -1.
    [Day18.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day18.cpp)
+
+19. Day 19 Question: Given an array, print the Next Greater Element (NGE) for every element.
+   [Day19.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day19.cpp)

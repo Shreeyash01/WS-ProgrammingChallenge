@@ -60,3 +60,6 @@ Note: Two strings are isomorphic if one-to-one mapping is possible for every cha
 
 19. Day 19 Question: Given an array, print the Next Greater Element (NGE) for every element.
    [Day19.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day19.cpp)
+
+20. Day 20 Question: Given a sequence of n strings, the task is to check if any two similar words come together and then destroy each other then print the number of words left in the sequence after this pairwise destruction.
+   [Day20.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day20.cpp)

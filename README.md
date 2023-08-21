@@ -63,3 +63,6 @@ Note: Two strings are isomorphic if one-to-one mapping is possible for every cha
 
 20. Day 20 Question: Given a sequence of n strings, the task is to check if any two similar words come together and then destroy each other then print the number of words left in the sequence after this pairwise destruction.
    [Day20.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day20.cpp)
+
+21. Day 21 Question: Given a stack with push(), pop(), and empty() operations, The task is to delete the middle element of it without using any additional data structure.
+   [Day21.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day21.cpp)

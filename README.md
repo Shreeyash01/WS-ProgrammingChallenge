@@ -66,3 +66,6 @@ Note: Two strings are isomorphic if one-to-one mapping is possible for every cha
 
 21. Day 21 Question: Given a stack with push(), pop(), and empty() operations, The task is to delete the middle element of it without using any additional data structure.
    [Day21.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day21.cpp)
+
+23. Day 23 Question: Given an integer k and a queue of integers, The task is to reverse the order of the first k elements of the queue, leaving the other elements in the same relative order.
+   [Day23.cpp](https://github.com/Shreeyash01/WS-ProgrammingChallenge/blob/main/Day23.cpp)

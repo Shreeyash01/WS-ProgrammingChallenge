@@ -1,5 +1,5 @@
 # WS-ProgrammingChallenge
-A 30 days DSA Questions Programming Challenge by Wisdom-Sprouts.
+A 24 days DSA Questions Programming Challenge by Wisdom-Sprouts.
 
 ## Questions
 
